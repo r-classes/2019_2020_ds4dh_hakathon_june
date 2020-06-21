@@ -18,6 +18,7 @@
 | В. Поздняков | @pozdniakovivan | + | -      |
 | Л. Чечик     | @tg_chechik     | + | -      |
 | Г. Мороз     | @agricolamz     | + | -      |
+| Ю. Мартысенко| @yulqui         | + | +      |
 | Н. Хорошева  | @nstsj          | - | +      |
 | О. Сериков   | @oserikov       | - | +      |
 | Д. Скоринкин | @skorinkin      | - | +      |
